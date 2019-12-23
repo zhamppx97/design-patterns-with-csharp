@@ -7,6 +7,7 @@ namespace design_patterns_with_csharp
         static void Main(string[] args)
         {
             DecoratorPattern.Client();
+            BridgePattern.Client();
         }
     }
 }
